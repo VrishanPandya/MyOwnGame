@@ -1,0 +1,35 @@
+*
+
+     h1{
+       color:rgb(255, 255, 255);
+       font:message-box;
+       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size:xx-large;
+       font-weight: 400;
+       font-style:oblique;
+     }
+
+.container{
+   height: 100vh;
+   width: 100%;
+   background: linear-gradient(90deg,#c608e7,#8b42d4,#1a06f5) 
+}
+canvas {
+  display: block;
+}
+
+.header {
+   color:rgb(0, 0, 0);
+   display: flex;
+   justify-content: flex-start;
+}
+
+.menu {
+  display: flex;
+  justify-content:space-evenly;
+}
+
+  
+
+
+
